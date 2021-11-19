@@ -1,0 +1,17 @@
+.main {
+    background-color: #8fe385;
+    height: 100vh;
+}
+
+
+.text {
+    background-color: rgba(101, 234, 51, 0.66);
+    width: 300px;
+    height: 200px;
+}
+
+.photo img {
+
+    height: 400px;
+    width: 300px;
+}
